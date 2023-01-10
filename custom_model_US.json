@@ -1,0 +1,342 @@
+{ 
+"name": "Custom_Model_US", 
+"description": "Customization model US", 
+"words": [
+   {
+      "translation": "S. AP's",
+      "word": "SAP's"
+   },
+   {
+      "translation": "ABBAB",
+      "word": "ABAP"
+   },
+   {
+      "translation": "E. MPs",
+      "word": "EMPs"
+   },
+   {
+      "translation": "log arc opt",
+      "word": "LOGARCHOPT"
+   },
+   {
+      "translation": "log arc opt 1",
+      "word": "LOGARCHOPT1"
+   },
+   {
+      "translation": "num arc retry",
+      "word": "NUMARCHRETRY"
+   },
+   {
+      "translation": "log arc compress",
+      "word": "LOGARCHCOMPR"
+   },
+   {
+      "translation": "log arc compress 1",
+      "word": "LOGARCHCOMPR1"
+   },
+   {
+      "translation": "log arc compress 2",
+      "word": "LOGARCHCOMPR2"
+   },
+   {
+      "translation": "log arc opt 2",
+      "word": "LOGARCHOPT2"
+   },
+   {
+      "translation": "arc retry delay",
+      "word": "ARCHRETRYDELAY"
+   },
+   {
+      "translation": "S. AP",
+      "word": "SAP"
+   },
+   {
+      "translation": "e. d. u.'s",
+      "word": "EDUs"
+   },
+   {
+      "translation": "C. L. I",
+      "word": "CLI"
+   },
+   {
+      "translation": "eL U. W",
+      "word": "LUW"
+   },
+   {
+      "translation": "E. D. U",
+      "word": "EDU"
+   },
+   {
+      "translation": "E. MP",
+      "word": "EMP"
+   },
+   {
+      "translation": "page age target m cr",
+      "word": "PAGE_AGE_TRGT_MCR"
+   },
+   {
+      "translation": "page age target g cr",
+      "word": "PAGE_AGE_TRGT_GCR"
+   },
+   {
+      "translation": "sis IBM a. d m",
+      "word": "sysibmadm"
+   },
+   {
+      "translation": "Ei PARs",
+      "word": "APARs"
+   },
+   {
+      "translation": "changed pages threshold",
+      "word": "CHNGPGS_THRESH"
+   },
+   {
+      "translation": "d b s. i d",
+      "word": "dbsid"
+   },
+   {
+      "translation": "db2 p. d.",
+      "word": "db2pd"
+   },
+   {
+      "translation": "log buff size",
+      "word": "LOGBUFSZ"
+   },
+   {
+      "translation": "mirror log path",
+      "word": "MIRRORLOGPATH"
+   },
+   {
+      "translation": "S. AP tmp",
+      "word": "saptmp"
+   },
+   {
+      "translation": "log index build",
+      "word": "LOG_INDEXBUILD"
+   },
+   {
+      "translation": "S. AP data",
+      "word": "sapdata"
+   },
+   {
+      "translation": "overflow log path",
+      "word": "OVERFLOWLOGPATH"
+   },
+   {
+      "translation": "db2 cf e xp",
+      "word": "db2cfexp"
+   },
+   {
+      "translation": "log arcmeth 1",
+      "word": "LOGARCHMETH1"
+   },
+   {
+      "translation": "db2 advanced log space management",
+      "word": "DB2_ADVANCED_LOG_SPACE_MGMT"
+   },
+   {
+      "translation": "NUM IO SERVERS",
+      "word": "NUM_IOSERVERS"
+   },
+   {
+      "translation": "util heap size",
+      "word": "UTIL_HEAP_SZ"
+   },
+   {
+      "translation": "db2 b. m",
+      "word": "db2bm"
+   },
+   {
+      "translation": "db2 pf chr",
+      "word": "db2pfchr"
+   },
+   {
+      "translation": "db2 es i d",
+      "word": "db2sid"
+   },
+   {
+      "translation": "el dap",
+      "word": "LDAP"
+   },
+   {
+      "translation": "db2 remote",
+      "word": "DB2REMOTE"
+   },
+   {
+      "translation": "auto resize",
+      "word": "Autoresize"
+   },
+   {
+      "translation": "S.I.D",
+      "word": "SID"
+   },
+   {
+      "translation": "auto resize",
+      "word": "autoresize"
+   },
+   {
+      "translation": "Ei PAR",
+      "word": "APAR"
+   },
+   {
+      "translation": "opperable",
+      "word": "operable"
+   },
+   {
+      "translation": "new log path",
+      "word": "NEWLOGPATH"
+   },
+   {
+      "translation": "eye dee",
+      "word": "ID"
+   },
+   {
+      "translation": "log primary",
+      "word": "LOGPRIMARY"
+   },
+   {
+      "translation": "log second",
+      "word": "LOGSECOND"
+   },
+   {
+      "translation": "log arcmeth 2",
+      "word": "LOGARCHMETH2"
+   },
+   {
+      "translation": "db2 cf i mp",
+      "word": "db2cfimp"
+   },
+   {
+      "translation": "eye dee",
+      "word": "id"
+   },
+   {
+      "translation": "log file size",
+      "word": "LOGFILSIZ"
+   },
+   {
+      "translation": "fail arc path",
+      "word": "FAILARCHPATH"
+   },
+   {
+      "translation": "d b",
+      "word": "db"
+   },
+   {
+      "translation": "IBM STOGROUP",
+      "word": "IBMSTOGROUP"
+   },
+   {
+      "translation": "s.a.p.s.i.d",
+      "word": "sapsid"
+   },
+   {
+      "translation": "es i d a. d m",
+      "word": "sidadm"
+   },
+   {
+      "translation": "db2 log gw",
+      "word": "db2loggw"
+   },
+   {
+      "translation": "block on log disk full",
+      "word": "BLK_LOG_DSK_FUL"
+   },
+   {
+      "translation": "IBM default bp",
+      "word": "IBMDEFAULTBP"
+   },
+   {
+      "translation": "db2 log gx",
+      "word": "db2loggx"
+   },
+   {
+      "translation": "db2 lfr",
+      "word": "db2lfr"
+   },
+   {
+      "translation": "SIS ADM",
+      "word": "SYSADM"
+   },
+   {
+      "translation": "SIS Mon",
+      "word": "SYSMON"
+   },
+   {
+      "translation": "Db2 backup include logs warning",
+      "word": "DB2_BCKP_INCLUDE_LOGS_WARNING"
+   },
+   {
+      "translation": "DB ADM",
+      "word": "DBADM"
+   },
+   {
+      "translation": "db2 ad u t l",
+      "word": "db2adutl"
+   },
+   {
+      "translation": "db2 check backup",
+      "word": "db2ckbkp"
+   },
+   {
+      "translation": "db2 m.e.d",
+      "word": "db2med"
+   },
+   {
+      "translation": "db2 i pc c m",
+      "word": "db2ipccm"
+   },
+   {
+      "translation": "db6 conff",
+      "word": "DB6CONV"
+   },
+   {
+      "translation": "Roll forward",
+      "word": "Rollforward"
+   },
+   {
+      "translation": "roll forward",
+      "word": "rollforward"
+   },
+   {
+      "translation": "db2 c l i",
+      "word": "db2cli"
+   },
+   {
+      "translation": "AUTO RESTART",
+      "word": "AUTORESTART"
+   },
+   {
+      "translation": "ROLL FORWARD",
+      "word": "ROLLFORWARD"
+   },
+   {
+      "translation": "dsc db6 up",
+      "word": "dscdb6up"
+   },
+   {
+      "translation": "SIS Control",
+      "word": "SYSCTRL"
+   },
+   {
+      "translation": "SIS Maint",
+      "word": "SYSMAINT"
+   },
+   {
+      "translation": "db2 check restore",
+      "word": "db2ckrst"
+   },
+   {
+      "translation": "dee bee 2 t cp cee em",
+      "word": "db2tcpcm"
+   },
+   {
+      "translation": "S AP db2. Dee Bee S. ID.",
+      "word": "sapdb2DBSID"
+   },
+   {
+      "translation": "S AP db2. Dee Bee S. ID.",
+      "word": "sapdb2dbsid"
+   }
+]
+}
